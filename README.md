@@ -1,5 +1,5 @@
 ## Disease Classifier
-### [Datasets] (https://github.com/19Ford99/Machine_Learning_Project/tree/main/Datasets)
+### Datasets
 
 - Includes the datasets used within the project.
 
