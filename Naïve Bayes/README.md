@@ -1,9 +1,7 @@
 ## Disease Classifier
-### Datasets
+### Naïve Bayes
 
-The datasets were used from Kaggle the link is located [here](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset).
-
-There are three files:
+There are 2 files:
 
 `dataset.csv`: This dataset contains 18 columns. It includes a target column (# 1) with the diagnosed disease and the remaining columns are a list of all the symptoms that the patient has experienced.
 - 4920 Total rows equating to around 100 cases for each of the 42 diseases.
