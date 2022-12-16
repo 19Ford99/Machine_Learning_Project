@@ -8,14 +8,8 @@ There are two files:
 - 4920 Total rows equating to around 100 cases for each of the 42 diseases.
 - Example of diseases such as Drug Allergy, Fungal Infection, AIDS, Diabetes, etc
 
-`US_births_2000-2014_SSA.csv` contains U.S. births data for the years 2000 to 2014, as provided by the Social Security Administration
 
-Both files have the following structure:
+`Disease_Description.csv`: This dataset is a list of the 42 different kinds of diseases and their descriptions.
 
-Header | Definition
----|---------
-`year` | Year
-`month` | Month
-`date_of_month` | Day number of the month
-`day_of_week` | Day of week, where 1 is Monday and 7 is Sunday
-`births` | Number of births
+
+`Symptom_Precaution.csv`: This dataset is a list of up to 4 precautions or steps that the patient needs to take for each of the 42 different diseases.
