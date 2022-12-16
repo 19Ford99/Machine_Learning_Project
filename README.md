@@ -4,11 +4,9 @@ The raw data behind the story [Some People Are Too Superstitious To Have A Baby 
 
 There are two files:
 
-`dataset.csv` This dataset contains 18 columns. It includes a target column (# 1) with the diagnosed disease and the remaining columns are a list of all the symptoms that the patient has experienced. ​
-
-4920 Total rows equating to around 100 cases for each of the 42 diseases.​
-
-Example of diseases such as Drug Allergy, Fungal Infection, AIDS, Diabetes, etc
+`dataset.csv`: This dataset contains 18 columns. It includes a target column (# 1) with the diagnosed disease and the remaining columns are a list of all the symptoms that the patient has experienced.
+- 4920 Total rows equating to around 100 cases for each of the 42 diseases.
+- Example of diseases such as Drug Allergy, Fungal Infection, AIDS, Diabetes, etc
 
 `US_births_2000-2014_SSA.csv` contains U.S. births data for the years 2000 to 2014, as provided by the Social Security Administration
 
