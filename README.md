@@ -2,7 +2,7 @@
 
 The raw data behind the story [Some People Are Too Superstitious To Have A Baby On Friday The 13th](http://fivethirtyeight.com/features/some-people-are-too-superstitious-to-have-a-baby-on-friday-the-13th/)
 
-There are two files:
+There are three files:
 
 `dataset.csv`: This dataset contains 18 columns. It includes a target column (# 1) with the diagnosed disease and the remaining columns are a list of all the symptoms that the patient has experienced.
 - 4920 Total rows equating to around 100 cases for each of the 42 diseases.
