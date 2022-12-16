@@ -1,7 +1,7 @@
 ## Disease Classifier
 ### Datasets
 
-The datasets were used from Kaggle the link is located [here](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset)
+The datasets were used from Kaggle the link is located [here](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset).
 
 There are three files:
 
